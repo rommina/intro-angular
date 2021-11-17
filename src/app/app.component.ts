@@ -8,3 +8,12 @@ import { Component } from '@angular/core';
 export class AppComponent {
   title = 'intro-angular';
 }
+//decorator
+
+//function  decorador (data) {
+ // console.log(data)
+ //getName() {console.log(data)}
+//}
+//@decorador('gregor')
+//class myclass {}
+// getname()
